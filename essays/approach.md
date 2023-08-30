@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 
-Java When I first learned about JavaScript, I initially thought of its flexibility. However, I was truly impressed by its versatility and the many possibilities it brings to the world. With this language, a developer can have at least 80% of what they need to create websites and desktop applications, as well as run complex operations.
+When I first learned about JavaScript, I initially thought of its flexibility. However, I was truly impressed by its versatility and the many possibilities it brings to the world. With this language, a developer can have at least 80% of what they need to create websites and desktop applications, as well as run complex operations.
 
 There are several programming languages available, such as Python, Java, JavaScript, C/CPP, PHP, Swift, C#, Ruby, and more. Among these, what are the advantages and disadvantages of JavaScript?
 
