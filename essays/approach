@@ -1,0 +1,15 @@
+---
+layout: essay
+type: essay
+title: "First approach to javaScrpit"
+# All dates must be YYYY-MM-DD format!
+date: 2023-08-29
+published: true
+labels:
+  - JavaScript
+---
+
+When I first learned about JavaScript, I initially thought of its flexibility. However, I was truly impressed by its versatility and the many possibilities it brings to the world. With this language, a developer can have at least 80% of what they need to create websites and desktop applications, as well as run complex operations.
+There are various programming languages available, including Python, Java, JavaScript, C/CPP, PHP, Swift, C#, Ruby…, to name a few. Among them, what are the advantages and disadvantages of JavaScript? 
+Well, JavaScript can enhance the interactivity and user-friendliness of web pages, making them more responsive to visitors' actions. In other words, JavaScript enables web pages to become more interactive.
+JavaScript has become a widely used programming language nowadays, as it can be found everywhere on the web. However, developing large applications using JavaScript can pose some challenges. One major issue with JavaScript is that the code is visible to anyone who can see the website, which could lead to errors that may cause the entire website to disappear.
