@@ -15,7 +15,7 @@ summary: "I wrote a research paper on the therapeutic benefits of service and em
 <div class="text-center p-4">
   <img width="200px" src="projects/service_dog.jpg" class="img-thumbnail" >
   <img width="200px" src="../projects/service_dog.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="projects/service_dog.jpg" class="img-thumbnail" >
 </div>
 projects/service_dog.jpg
 Seventy percent of the U.S. population owns pets, encompassing a variety of animals such as dogs, cats, birds, and horses, reflecting the psychological and physical benefits of human-animal interactions (American Veterinary Medical Association, 2022). This paper delves into three key factors shaping the landscape of service and emotional support animals in society. Firstly, it explores the legal framework surrounding these animals, highlighting existing loopholes. Secondly, the paper discusses the accessibility convenience factor for these animals in public spaces. Lastly, it examines the implications of online certification for service and emotional support animals. By addressing these aspects, the paper argues that service and emotional support animals offer more positive impacts on society's well-being compared to traditional service aids.
