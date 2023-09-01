@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: projects/livingroom1.jpg
 title: "House Hike Drone"
 date: 2021
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A responsive web application for travel planning that my team developed in ICS 415."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../projects/livingroom1.jpg">
 
 As a skilled real estate photographer, having advanced photography skills that include composition, lighting, angles, and equipment expertise is essential. My goal is to create images that evoke spaciousness, warmth, and luminosity. With the use of professional-grade tools such as high-resolution cameras, wide-angle lenses, and drones, I am adept at navigating camera settings to capture authentic interior and exterior shots that truly showcase the property. I also contribute to the arrangement and staging of spaces, making subtle decorative modifications and optimizing lighting for maximum visual appeal.
 
