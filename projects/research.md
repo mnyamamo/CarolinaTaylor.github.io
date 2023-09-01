@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: projects/service_animal.jpg
 title: "Service Animals and Emotional Support Animals in Today's Society "
 date: 2022
 published: true
