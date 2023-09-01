@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: projects/password.jpg
 title: "Password Matching"
-date: 2015
+date: 2022
 published: true
 labels:
   - Java
