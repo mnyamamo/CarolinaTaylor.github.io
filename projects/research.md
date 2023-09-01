@@ -13,7 +13,7 @@ summary: "I wrote a research paper on the therapeutic benefits of service and em
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="projects/service_dog.jpg" class="img-thumbnail" >
+  <img width="200px" src="../projects/service_dog.jpg" class="img-thumbnail" >
   <img width="200px" src="../projects/service_dog.jpg" class="img-thumbnail" >
   <img width="200px" src="projects/service_dog.jpg" class="img-thumbnail" >
 </div>
