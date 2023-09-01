@@ -12,13 +12,21 @@ labels:
 summary: "As part of my first proyect in ICS 111 we created a simple password check code."
 ---
 
+As part of my ICS 11 class, we were tasked with developing a code that matches user input with stored data in memory. If the password matches, the user gains access. However, if the user fails to guess the password, they have only three additional attempts to try different passwords before the program terminates.
 
+This code defines a Java method named userPasswordMatch that takes two string parameters: user and pass. The purpose of this method is to check if the provided user and pass match predefined values.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Here's an explanation of how the code works:
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Several pairs of predefined user and pass values are declared at the beginning of the method. These pairs are hardcoded into the method and represent valid username-password combinations.
 
-Here is some code that illustrates how we read values from the line sensors:
+The if statement is used to check if the provided user and pass match any of the predefined pairs. It does this by using the equals method to compare the input user and pass with each predefined user and pass combination.
+
+If any of the combinations match, the if statement evaluates to true, and the method returns true. This indicates that the provided user and pass are valid and match one of the predefined pairs.
+
+If none of the predefined combinations match, the method reaches the return false statement outside the if block, indicating that the provided user and pass do not match any of the predefined pairs.
+
+In essence, this code is a basic authentication mechanism that checks if the user-provided user and pass match any of the predefined username-password pairs. If a match is found, it returns true, indicating successful authentication; otherwise, it returns false.
 
 ```cpp
 public static boolean userPasswordMatch(String user , String pass) {
