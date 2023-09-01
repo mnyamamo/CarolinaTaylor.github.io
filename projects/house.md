@@ -6,11 +6,10 @@ title: "House Hike Drone"
 date: 2021
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Photography
+  - Real Estate
+  - Drone
+summary: "I have been working as a real Estate photographer for over two years"
 ---
 
 <img class="img-fluid" src="../projects/livingroom1.jpg">
@@ -19,6 +18,6 @@ As a skilled real estate photographer, having advanced photography skills that i
 
 My job is to make sure that furniture is lined up perfectly, the space is clean and clutter-free, and everything looks visually appealing and accurate. Once the initial photos are taken, I also edit and enhance the images by adjusting colors, exposure, and removing any minor flaws. Communication with clients is key to understanding their preferences and meeting their expectations while providing professional advice. It's important to maintain a consistent visual style across different properties for the same client to maintain brand identity and increase marketing effectiveness.
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+[House Hike Drone Instagram](https://www.instagram.com/househike_realestatemedia_hi/).
+[House Hike WEBSIDE](https://househikerealestatemedia.com/). 
