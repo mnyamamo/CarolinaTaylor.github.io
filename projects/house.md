@@ -9,7 +9,7 @@ labels:
   - Photography
   - Real Estate
   - Drone
-summary: "I have been working as a real Estate photographer for over two years"
+summary: "I have been working as a real estate photographer for over two years"
 ---
 
 <img class="img-fluid" src="../projects/livingroom1.jpg">
