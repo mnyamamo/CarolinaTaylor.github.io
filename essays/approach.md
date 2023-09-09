@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "First approach to javaScript"
+title: "First approach to JavaScript"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-29
 published: true
