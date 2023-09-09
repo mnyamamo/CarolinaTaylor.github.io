@@ -20,7 +20,7 @@ If you are a newbie and need help with Linux, check out your local user group or
 
 Here is a example of a stupid question found in Stack Overflow:
 
-##Understanding the difference beetween calling and Invoking function in JavaScript
+## Understanding the difference beetween calling and Invoking function in JavaScript
 I'm currently working on a project in js, and i've come across a concept that's been causing me some confusion: the diference between calling and involke. I've read the documentation and various tutorials, but I'm still struggling to grasp the distinction and how it applies to my code.
 So What is the fundamental difference between calling and invoking functions in js How do these concepts relate to the code I've provided? 
 Are there specific examples or scenarios where understanding this distinction is crucial for my project?.
